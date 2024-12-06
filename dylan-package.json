@@ -1,0 +1,11 @@
+{
+    "dependencies": [ "http" ],
+    "dev-dependencies": [  ],
+    "description": "Your Home On The Internet",
+    "name": "yhoti",
+    "version": "0.1.0",
+    "url": "https://github.com/cgay/yhoti",
+    "keywords": [],
+    "contact": "carlgay@gmail.com",
+    "license": "MIT"
+}
